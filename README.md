@@ -1,0 +1,2 @@
+# C-Programming-Exercises-Arrays-Pointers-Student-Management-System
+A collection of C++ exercises covering fundamental concepts. Implements array operations (display, average, search, max, occurrences), demonstrates pass-by-value vs pass-by-reference, and builds a complete student grade management system using dynamic memory allocation and structures. Perfect for mastering core C++ programming skills
